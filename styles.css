@@ -1,0 +1,24 @@
+* {
+    margin: none;
+    padding: none;
+    border: none;
+    color: white;
+}
+
+:root {
+    background: #090909;
+}
+
+body {
+    width: 100%;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    overflow: hidden;
+}
+
+#canvas {
+    border: 1px solid white;
+    background-color: black;
+}
